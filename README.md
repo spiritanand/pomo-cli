@@ -14,8 +14,8 @@ To run the Pomodoro CLI App, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/pomodoro-cli-app.git
-    cd pomodoro-cli
+    git clone https://github.com/spiritanand/pomo-cli.git 
+    cd pomo-cli
     ```
 
 2. Install dependencies using `pnpm`:
