@@ -8,7 +8,7 @@ configure it to your liking.
 - **Start a Pomodoro Timer**: Begin a 25-minute focus session followed by a 5-minute break. (default)
 - **Custom Timer Durations**: Set custom durations for focus and break periods.
 
-## Installation
+## Run locally
 
 To run the Pomodoro CLI App, follow these steps:
 
