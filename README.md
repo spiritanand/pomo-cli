@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **Archived.** This was an early Node.js prototype. It's replaced by **[calmpomo](https://github.com/spiritanand/calmpomo)**, a calm pomodoro for the macOS menu bar with configurable focus, breaks, long breaks and cycles, soft chimes, hotkeys from Raycast or any launcher, a session log, and a timer that survives restarts.
+
 # Pomodoro CLI App
 
 Welcome to the Pomodoro CLI App! This is a simple command-line application designed to help you use the Pomodoro and
