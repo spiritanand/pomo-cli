@@ -30,11 +30,3 @@ To run the Pomodoro CLI App, follow these steps:
     ```bash
     pnpm start
     ```
-
-## Features to be added
-
-- **Publish** to npm as an executable
-- Notifications on timer end
-- Stats for pomodoro sessions in a CSV/JSON file
-
-# Contributions are welcome. Please raise a PR.
